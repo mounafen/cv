@@ -1,0 +1,50 @@
+﻿.page{
+	width : 780px;
+	margin: auto;
+	font-size : 16px;
+	font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+.Menu{
+	float : left;
+	text-align : justify;
+	color : #2F4F4F	
+}
+
+
+.Contact{
+	float : left;
+	text-align : justify;
+	color : #2F4F4F
+}
+
+
+
+.Formation {
+	float : left;
+	text-align : justify;
+	color : #2F4F4F
+	
+}
+
+
+
+.Expro{
+	float : left;
+	text-align : justify;
+	color : #2F4F4F
+}
+
+
+.Compétences{
+	float : left;
+	text-align : justify;
+	color : #2F4F4F
+}
+
+
+.Centrinter{
+	float : left; 	
+	text-align : justify;
+	color : #2F4F4F
+}
